@@ -22,15 +22,19 @@ python manage.py runserver
 <blockquote>
 <p>เริ่มใช้ app</p>
 </blockquote>
-<p>python <a href="http://manage.py">manage.py</a> startapp articles</p>
+<pre><code>python manage.py startapp articles
+</code></pre>
 <blockquote>
 <p>เริ่มใช้ฐานข้อมูล</p>
 </blockquote>
-<p>python <a href="http://manage.py">manage.py</a> makemigrations<br>
-python <a href="http://manage.py">manage.py</a> migrate<br>
-python <a href="http://manage.py">manage.py</a> shell</p>
+<pre><code>python manage.py makemigrations
+python manage.py migrate
+python manage.py shell
+</code></pre>
 <blockquote>
 <p>admin เพื่อเข้า database</p>
 </blockquote>
-<p>python <a href="http://manage.py">manage.py</a> createsuperuser</p>
+<pre><code>python manage.py createsuperuser
+</code></pre>
+<p>อ่านเพิ่มเติมได้ที่</p>
 
