@@ -1,0 +1,17 @@
+{% load static %}
+<html>
+<head>
+<link rel="stylesheet" href="{% static "style.css"%}">
+</head>
+<body>
+<h1>title</h1>
+<div class="articles">
+    {% for x in qq %}
+    <div class="x">
+    <h2><a href='#'>{{x.title}}</a></h2>
+    <p>{{x.cutbody}}</p>
+    </div>
+    {% endfor %}
+</div>
+</body>
+</html>
