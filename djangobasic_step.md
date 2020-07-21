@@ -36,5 +36,5 @@ python manage.py shell
 </blockquote>
 <pre><code>python manage.py createsuperuser
 </code></pre>
-<p>อ่านเพิ่มเติมได้ที่</p>
+<p>อ่านเพิ่มเติมได้ที่ <a href="https://medium.com/@chanisarauttamawetin/%E0%B9%83%E0%B8%8A%E0%B9%89-django-python-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-1-e3a88c2c2212">https://medium.com/@chanisarauttamawetin/%E0%B9%83%E0%B8%8A%E0%B9%89-django-python-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-1-e3a88c2c2212</a></p>
 
